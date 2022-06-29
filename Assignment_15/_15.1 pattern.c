@@ -8,6 +8,7 @@ void Pattern(int iRow, int iCol)
         {
             printf("* ");
         }
+
         printf("\n");
     }
 }
